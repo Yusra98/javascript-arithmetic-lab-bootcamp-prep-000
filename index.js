@@ -1,2 +1,2 @@
-var a,b = 
-
+var a, b = 5 + 10
+function add
